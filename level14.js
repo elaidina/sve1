@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Stick the eyes, the nose and the mouth on the mask.'
+      img: 'Does it move?'
     },
     {
       name: '1',
-      img: 'Lima fast ögonen, näsan och munnen på masken.'
+      img: 'Rör det sig?'
     },
     {
       name: '2',
-      img: 'My dress is too short and wide.'
+      img: 'How do you go to school?'
     },
     {
       name: '2',
-      img: 'Min klänning är för kort och säckig.'
+      img: 'Hur går du till skolan?'
     },
     {
       name: '3',
-      img: 'I´m standing in the middle of a circle.'
+      img: 'On foot, by bus, by tram or by car?'
     },
     {
       name: '3',
-      img: 'ag står i mitten av cirkeln.'
+      img: 'Till fots, med buss, spårvagn eller bil?'
     },
     {
       name: '4',
-      img: 'Put your shoes on.'
+      img: 'We´re going to make a salad in the kitchen.'
     },
     {
       name: '4',
-      img: 'Sätt på dig dina skor.'
+      img: 'Vi ska göra en sallad i köket.'
     },
     {
       name: '5',
-      img: 'Take care of you.'
+      img: 'We need a knife, a spoon, a bowl, carrots, one cucumber, a cabbage, peas, some sugar and lemon juice.'
     },
     {
       name: '5',
-      img: 'Ta hand om dig själv.'
+      img: 'Vi behöver en kniv, en sked, en skål, morötter, en gurka, en kål, ärtor, lite socker och citronsaft.'
     },
     {
       name: '6',
-      img: 'Do you live in a town or a village?'
+      img: 'First, we cut the vegetables.'
     },
     {
       name: '6',
-      img: 'Bor du i stan eller på landet?'
+      img: 'Först skär vi grönsakerna.'
     },
     {
       name: '7',
-      img: 'What can you see?'
+      img: 'Then we mix all the ingredients together.'
     },
     {
       name: '7',
-      img: 'Vad ser du?'
+      img: 'Då blandar vi ihop alla ingredienser.'
     },
     {
       name: '8',
-      img: 'I can see a duckling, some chicks, a dog and a cat.'
+      img: 'Finally, we put everything on plates.'
     },
     {
       name: '8',
-      img: 'Jag ser en ankunge, några ungar, en hund och en katt.'
+      img: '"Äntligen lägger vi allt på tallrikar.'
     },
     {
       name: '9',
-      img: 'What colour is the cat?'
+      img: 'The salad is very tasty.'
     },
     {
       name: '9',
-      img: 'Vilken färg har den katten?'
+      img: 'Saladen är väldigt god.'
     },
     {
       name: '10',
-      img: 'The cat is black.'
+      img: 'My room is in a mess.'
     },
     {
       name: '10',
-      img: 'Katten är svart.'
+      img: 'Mitt rum är i en enda röra.'
     },
     {
       name: '11',
-      img: 'I like chocolate ice-cream.'
+      img: 'There are clothes everywhere.'
     },
     {
       name: '11',
-      img: 'Jag gillar chokladglass.'
+      img: 'Det finns kläder överallt.'
     },
     {
       name: '12',
-      img: 'I like listening to stories.'
+      img: 'All my books and toys are on the floor.'
     },
     {
       name: '12',
-      img: 'Jag gillar att höra historier.'
+      img: 'Alla mina böcker och leksaker ligger på golvet.'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 7 completed!</h2><a href='https://elaidina.github.io/sve1/level8.html'> Continue to Level 8</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 14 completed!</h2><a href='https://elaidina.github.io/sve1/level15.html'> Continue to Level 15</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

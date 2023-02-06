@@ -3,31 +3,31 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'How can I help you?'
+      img: 'What do you think about it?'
     },
     {
       name: '1',
-      img: 'Hur kan jag hjälpa dig?'
+      img: 'Vad tycker du om det?'
     },
     {
       name: '2',
-      img: 'Can you have a look on the table?'
+      img: 'Switch off the light.'
     },
     {
       name: '2',
-      img: 'Kan du titta på bordet?'
+      img: 'Släck ljuset.'
     },
     {
       name: '3',
-      img: 'It was under the table.'
+      img: 'Where do you play with your friends?'
     },
     {
       name: '3',
-      img: 'Det låg under bordet.'
+      img: 'Var spelar du med dina vänner?'
     },
     {
       name: '4',
-      img: 'I thought it was on the cupboard or near the chair.'
+      img: 'When do you come home from work?'
     },
     {
       name: '4',
@@ -35,67 +35,67 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'I´m building a lego car.'
+      img: 'Hold the screw-driver.'
     },
     {
       name: '5',
-      img: 'Jag bygger en legobil.'
+      img: 'Håll skruvmejseln.'
     },
     {
       name: '6',
-      img: 'Look at this small picture.'
+      img: 'I watch a bedtime story every evening.'
     },
     {
       name: '6',
-      img: 'Titta på denna lilla bilden.'
+      img: 'Jag tittar på en godnattsaga varje kväll.'
     },
     {
       name: '7',
-      img: 'There are many strawberries, cherries, raspberries and grapes.'
+      img: 'Can you guess what I am?'
     },
     {
       name: '7',
-      img: 'Det finns massor av jordgubbar, körsbär, hallon och vindruvor.'
+      img: 'Kan du gissa vad jag är?'
     },
     {
       name: '8',
-      img: 'The pears and apricots are not ripe yet.'
+      img: 'Do you plant flowers and trees?'
     },
     {
       name: '8',
-      img: 'Päronen och aprikoserna är inte mogna ännu.'
+      img: 'Planterar du blommor och träd?'
     },
     {
       name: '9',
-      img: 'Here´s your plate, fork, cup and spoon.'
+      img: 'Yes, I am a gardener.'
     },
     {
       name: '9',
-      img: 'Här är din tallrik, gaffel, kopp och sked.'
+      img: 'Ja, jag är trädgårdsmästare.'
     },
     {
       name: '10',
-      img: 'Is this your bag or not?'
+      img: 'Guess what I am thinking of.'
     },
     {
       name: '10',
-      img: 'Är det här din väska eller inte?'
+      img: 'Gissa vad jag tänker på.'
     },
     {
       name: '11',
-      img: 'My doll has got big blue eyes and long hair.'
+      img: 'Is it a boy, a girl, an animal or a thing?'
     },
     {
       name: '11',
-      img: 'Min docka har stora blå ögon och långt hår.'
+      img: 'Är det en pojke, en flicka, ett djur eller en sak?'
     },
     {
       name: '12',
-      img: 'Let´s take scissors and cut out a heart.'
+      img: 'Does it hang on the wall?'
     },
     {
       name: '12',
-      img: 'Låt oss ta en sax och klippa ut ett litet hjärta.'
+      img: 'Hänger den på väggen?'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 6 completed!</h2><a href='https://elaidina.github.io/sve1/level7.html'> Continue to Level 7</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 13 completed!</h2><a href='https://elaidina.github.io/sve1/level14.html'> Continue to Level 14</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

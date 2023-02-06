@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I want to become a teacher.'
+      img: 'Tidy this room up, please.'
     },
     {
       name: '1',
-      img: 'Jag vill bli lärare.'
+      img: 'Snälla, städa upp det här rummet.'
     },
     {
       name: '2',
-      img: 'I want to teach children.'
+      img: 'I´m looking for my pillow.'
     },
     {
       name: '2',
-      img: 'Jag vill lära barn.'
+      img: 'Jag söker min kudde.'
     },
     {
       name: '3',
-      img: 'She wants to be a doctor.'
+      img: 'Let´s dress our dolls up.'
     },
     {
       name: '3',
-      img: 'Hon vill bli läkare.'
+      img: 'Låt oss klä upp våra dockor.'
     },
     {
       name: '4',
-      img: 'Her dream is to cure people.'
+      img: 'What is the doll wearing?'
     },
     {
       name: '4',
-      img: 'Hennes dröm är att läka människor.'
+      img: 'Vad har dockan på sig?'
     },
     {
       name: '5',
-      img: 'Can you drive a car?'
+      img: 'The doll has got blue underpants, green trousers, yellow t-shirt, little shoes and a green jacket.'
     },
     {
       name: '5',
-      img: 'Kan du köra bil?'
+      img: 'Dockan har blå kalsonger, gröna byxor, gul t-shirt, små skor och en grön jacka.'
     },
     {
       name: '6',
-      img: 'Yes, I am a good driver.'
+      img: 'You look so lovely in this dress.'
     },
     {
       name: '6',
-      img: 'Ja, jag är en bra förare.'
+      img: 'Du är så vacker i den här klänningen.'
     },
     {
       name: '7',
-      img: 'How many cars have you got?'
+      img: 'She is wearing a red skirt, white nickers, blue tights, a white blouse and a green jacket.'
     },
     {
       name: '7',
-      img: 'Hur många bilar har du?'
+      img: 'Hon är klädd i en röd kjol, vita trosor, blå strumpbyxor, en vit blus och en grön kavaj.'
     },
     {
       name: '8',
-      img: 'I have two cars and three bicycles.'
+      img: 'They are going for a trip today.'
     },
     {
       name: '8',
-      img: 'Jag har två bilar och tre cyklar.'
+      img: 'De ska ut på en resa idag.'
     },
     {
       name: '9',
-      img: 'Come and play cards with me.'
+      img: 'They need to pack a lot of things.'
     },
     {
       name: '9',
-      img: 'Kom och spela kort med mig.'
+      img: 'De behöver packa en massa saker.'
     },
     {
       name: '10',
-      img: 'I would rather play basketball.'
+      img: 'I don´t want to get up.'
     },
     {
       name: '10',
-      img: 'Jag skulle hellre spela basket.'
+      img: 'Jag vill inte gå upp.'
     },
     {
       name: '11',
-      img: 'Are you good at playing football?'
+      img: 'You put your trainers on and you´re ready to go.'
     },
     {
       name: '11',
-      img: 'Är du bra på att spela fotboll?'
+      img: 'Du tar på dig dina träningsskor och du är redo att gå.'
     },
     {
       name: '12',
-      img: 'Not at all.'
+      img: 'The whole family is going to the country today.'
     },
     {
       name: '12',
-      img: 'Inte alls.'
+      img: 'Hela familjen åker till landet idag.'
     }
   ]
 

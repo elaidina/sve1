@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'ag står i mitten av cirkeln.'
+      img: 'Jag står i mitten av cirkeln.'
     },
     {
       name: '4',
