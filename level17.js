@@ -51,51 +51,51 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'We have to go on foot.'
+      img: 'My friend lives in a house near the river.'
     },
     {
       name: '7',
-      img: 'Vi måste gå till fots.'
+      img: 'Min vän bor i ett hus nära floden.'
     },
     {
       name: '8',
-      img: "She´s a very good singer."
+      img: "He plays with his dog every day."
     },
     {
       name: '8',
-      img: 'Hon är en väldigt bra sångerska.'
+      img: 'Han leker med sin hund varje dag.'
     },
     {
       name: '9',
-      img: 'Listen, do you know this song?'
+      img: 'Do you sometimes watch horses and cows in the meadow?'
     },
     {
       name: '9',
-      img: 'Hör du, kan du den här låten?'
+      img: 'Tittar du ibland på hästar och kor på ängen?'
     },
     {
       name: '10',
-      img: 'There is a brilliant book on the shelf.'
+      img: 'I´m afraid of that big dog.'
     },
     {
       name: '10',
-      img: 'Det ligger en lysande bok på hyllan.'
+      img: 'Jag är rädd för den där stora hunden.'
     },
     {
       name: '11',
-      img: 'I often read this book.'
+      img: 'I want to show you something.'
     },
     {
       name: '11',
-      img: 'Jag läser ofta den här boken.'
+      img: 'Jag vill visa dig någonting.'
     },
     {
       name: '12',
-      img: 'I am too short to reach the book on the shelf.'
+      img: 'Do you want to see out pig and piglets?'
     },
     {
       name: '12',
-      img: 'Jag är för kort för att nå boken i hyllan.'
+      img: 'Vill du se gris och smågrisar?'
     }
   ]
 
