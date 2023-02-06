@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag trodde att det låg på byrån eller vid stolen.'
+      img: 'När kommer du hem från jobbet?'
     },
     {
       name: '5',
