@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Tidy this room up, please.'
+      img: "I´ll make a tea for you."
     },
     {
       name: '1',
-      img: 'Snälla, städa upp det här rummet.'
+      img: 'Jag ska göra ett te till dig.'
     },
     {
       name: '2',
-      img: 'I´m looking for my pillow.'
+      img: "He´s got a sore throat and a headache."
     },
     {
       name: '2',
-      img: 'Jag söker min kudde.'
+      img: 'Han har ont i halsen och huvudvärk.'
     },
     {
       name: '3',
-      img: 'Let´s dress our dolls up.'
+      img: 'They all have a tummy-ache.'
     },
     {
       name: '3',
-      img: 'Låt oss klä upp våra dockor.'
+      img: 'De har alla ont i magen.'
     },
     {
       name: '4',
-      img: 'What is the doll wearing?'
+      img: "What´s the matter with me?"
     },
     {
       name: '4',
-      img: 'Vad har dockan på sig?'
+      img: 'Vad är det med mig?'
     },
     {
       name: '5',
-      img: 'The doll has got blue underpants, green trousers, yellow t-shirt, little shoes and a green jacket.'
+      img: 'We must stay at home.'
     },
     {
       name: '5',
-      img: 'Dockan har blå kalsonger, gröna byxor, gul t-shirt, små skor och en grön jacka.'
+      img: 'Vi måste stanna hemma.'
     },
     {
       name: '6',
-      img: 'You look so lovely in this dress.'
+      img: "I don´t want to catch a cold."
     },
     {
       name: '6',
-      img: 'Du är så vacker i den här klänningen.'
+      img: 'Jag vill inte bli förkyld.'
     },
     {
       name: '7',
-      img: 'She is wearing a red skirt, white nickers, blue tights, a white blouse and a green jacket.'
+      img: 'I keep eating a lot of fruits and vegetables and drinking warm tea with lemon and honey.'
     },
     {
       name: '7',
-      img: 'Hon är klädd i en röd kjol, vita trosor, blå strumpbyxor, en vit blus och en grön kavaj.'
+      img: 'Jag fortsätter att äta mycket frukt och grönsaker och dricka varmt te med citron och honung.'
     },
     {
       name: '8',
-      img: 'They are going for a trip today.'
+      img: 'Wipe your nose with a hanky.'
     },
     {
       name: '8',
-      img: 'De ska ut på en resa idag.'
+      img: 'Torka näsan med en näsduk.'
     },
     {
       name: '9',
-      img: 'They need to pack a lot of things.'
+      img: 'Come along with me.'
     },
     {
       name: '9',
-      img: 'De behöver packa en massa saker.'
+      img: 'Kom tillsammans med mig.'
     },
     {
       name: '10',
-      img: 'I don´t want to get up.'
+      img: 'You can help me if you like.'
     },
     {
       name: '10',
-      img: 'Jag vill inte gå upp.'
+      img: 'Du kan hjälpa mig om du vill.'
     },
     {
       name: '11',
-      img: 'You put your trainers on and you´re ready to go.'
+      img: 'She will come back in the afternoon.'
     },
     {
       name: '11',
-      img: 'Du tar på dig dina träningsskor och du är redo att gå.'
+      img: 'Hon kommer tillbaka på eftermiddagen.'
     },
     {
       name: '12',
-      img: 'The whole family is going to the country today.'
+      img: 'I want to watch TV in the evening.'
     },
     {
       name: '12',
-      img: 'Hela familjen åker till landet idag.'
+      img: 'Jag vill titta på tv på kvällen.'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 15 completed!</h2><a href='https://elaidina.github.io/sve1/level16.html'> Continue to Level 16</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 12 completed!</h2><a href='https://elaidina.github.io/sve1/level13.html'> Continue to Level 13</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

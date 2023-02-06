@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Tidy this room up, please.'
+      img: 'We are approaching the forest.'
     },
     {
       name: '1',
-      img: 'Snälla, städa upp det här rummet.'
+      img: 'Vi närmar oss skogen.'
     },
     {
       name: '2',
-      img: 'I´m looking for my pillow.'
+      img: 'We can´t go by car into the forest.'
     },
     {
       name: '2',
-      img: 'Jag söker min kudde.'
+      img: 'Vi kan inte åka in i skogen med bil.'
     },
     {
       name: '3',
-      img: 'Let´s dress our dolls up.'
+      img: 'I like it here very much.'
     },
     {
       name: '3',
-      img: 'Låt oss klä upp våra dockor.'
+      img: 'Jag trivs väldigt bra här.'
     },
     {
       name: '4',
-      img: 'What is the doll wearing?'
+      img: 'We can play in the meadow.'
     },
     {
       name: '4',
-      img: 'Vad har dockan på sig?'
+      img: 'Vi kan leka på ängen.'
     },
     {
       name: '5',
-      img: 'The doll has got blue underpants, green trousers, yellow t-shirt, little shoes and a green jacket.'
+      img: 'Look, there´s a butterfly on that flower.'
     },
     {
       name: '5',
-      img: 'Dockan har blå kalsonger, gröna byxor, gul t-shirt, små skor och en grön jacka.'
+      img: 'Titta, det finns en fjäril på den blomman.'
     },
     {
       name: '6',
-      img: 'You look so lovely in this dress.'
+      img: 'Would you like to pick mushrooms and strawberries?'
     },
     {
       name: '6',
-      img: 'Du är så vacker i den här klänningen.'
+      img: 'Vill du plocka svamp och jordgubbar?'
     },
     {
       name: '7',
-      img: 'She is wearing a red skirt, white nickers, blue tights, a white blouse and a green jacket.'
+      img: 'We have to go on foot.'
     },
     {
       name: '7',
-      img: 'Hon är klädd i en röd kjol, vita trosor, blå strumpbyxor, en vit blus och en grön kavaj.'
+      img: 'Vi måste gå till fots.'
     },
     {
       name: '8',
-      img: 'They are going for a trip today.'
+      img: "She´s a very good singer."
     },
     {
       name: '8',
-      img: 'De ska ut på en resa idag.'
+      img: 'Hon är en väldigt bra sångerska.'
     },
     {
       name: '9',
-      img: 'They need to pack a lot of things.'
+      img: 'Listen, do you know this song?'
     },
     {
       name: '9',
-      img: 'De behöver packa en massa saker.'
+      img: 'Hör du, kan du den här låten?'
     },
     {
       name: '10',
-      img: 'I don´t want to get up.'
+      img: 'There is a brilliant book on the shelf.'
     },
     {
       name: '10',
-      img: 'Jag vill inte gå upp.'
+      img: 'Det ligger en lysande bok på hyllan.'
     },
     {
       name: '11',
-      img: 'You put your trainers on and you´re ready to go.'
+      img: 'I often read this book.'
     },
     {
       name: '11',
-      img: 'Du tar på dig dina träningsskor och du är redo att gå.'
+      img: 'Jag läser ofta den här boken.'
     },
     {
       name: '12',
-      img: 'The whole family is going to the country today.'
+      img: 'I am too short to reach the book on the shelf.'
     },
     {
       name: '12',
-      img: 'Hela familjen åker till landet idag.'
+      img: 'Jag är för kort för att nå boken i hyllan.'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 15 completed!</h2><a href='https://elaidina.github.io/sve1/level16.html'> Continue to Level 16</a>";
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 17 completed!</h2><a href="https://elaidina.github.io/sve1/level18.html"> Continue to Level 18</a>';
 
 
       var audio3 = new Audio ("images/end.mp3")

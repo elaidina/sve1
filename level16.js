@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Tidy this room up, please.'
+      img: 'They are looking forward to see their grandma.'
     },
     {
       name: '1',
-      img: 'Snälla, städa upp det här rummet.'
+      img: 'De ser fram emot att träffa sin mormor.'
     },
     {
       name: '2',
-      img: 'I´m looking for my pillow.'
+      img: 'Her village is not far from the town.'
     },
     {
       name: '2',
-      img: 'Jag söker min kudde.'
+      img: 'Hennes by ligger inte långt från staden.'
     },
     {
       name: '3',
-      img: 'Let´s dress our dolls up.'
+      img: 'We are coming along with them.'
     },
     {
       name: '3',
-      img: 'Låt oss klä upp våra dockor.'
+      img: 'Vi följer med dem.'
     },
     {
       name: '4',
-      img: 'What is the doll wearing?'
+      img: 'Can you wait for us?'
     },
     {
       name: '4',
-      img: 'Vad har dockan på sig?'
+      img: 'Kan du vänta på oss?'
     },
     {
       name: '5',
-      img: 'The doll has got blue underpants, green trousers, yellow t-shirt, little shoes and a green jacket.'
+      img: 'I must ask everyone.'
     },
     {
       name: '5',
-      img: 'Dockan har blå kalsonger, gröna byxor, gul t-shirt, små skor och en grön jacka.'
+      img: 'Jag måste fråga alla.'
     },
     {
       name: '6',
-      img: 'You look so lovely in this dress.'
+      img: 'We will be going through the town.'
     },
     {
       name: '6',
-      img: 'Du är så vacker i den här klänningen.'
+      img: 'Vi ska åka genom stan.'
     },
     {
       name: '7',
-      img: 'She is wearing a red skirt, white nickers, blue tights, a white blouse and a green jacket.'
+      img: 'We will be able to see lots of cars, shops and big houses.'
     },
     {
       name: '7',
-      img: 'Hon är klädd i en röd kjol, vita trosor, blå strumpbyxor, en vit blus och en grön kavaj.'
+      img: 'Vi kommer att kunna se massor av bilar, butiker och stora hus.'
     },
     {
       name: '8',
-      img: 'They are going for a trip today.'
+      img: 'There are lots of people in the streets.'
     },
     {
       name: '8',
-      img: 'De ska ut på en resa idag.'
+      img: 'Det är mycket folk på gatorna.'
     },
     {
       name: '9',
-      img: 'They need to pack a lot of things.'
+      img: 'Show me the way, please.'
     },
     {
       name: '9',
-      img: 'De behöver packa en massa saker.'
+      img: 'Visa mig vägen, snälla.'
     },
     {
       name: '10',
-      img: 'I don´t want to get up.'
+      img: "Go straight and then turn left."
     },
     {
       name: '10',
-      img: 'Jag vill inte gå upp.'
+      img: 'Gå rakt fram och sväng sedan vänster.'
     },
     {
       name: '11',
-      img: 'You put your trainers on and you´re ready to go.'
+      img: "Turn right at the giant bridge."
     },
     {
       name: '11',
-      img: 'Du tar på dig dina träningsskor och du är redo att gå.'
+      img: 'Sväng höger vid den gigantiska bron."'
     },
     {
       name: '12',
-      img: 'The whole family is going to the country today.'
+      img: 'There´s my favourite shop on the right and a church on the left.'
     },
     {
       name: '12',
-      img: 'Hela familjen åker till landet idag.'
+      img: 'Det finns min favoritbutik till höger och en kyrka till vänster.'
     }
   ]
 
@@ -179,9 +179,9 @@ audio1.play();
     }
     cardsChosen = []
     cardsChosenId = []
-    resultDisplay.textContent = cardsWon.length
+    resultDisplay.textContent = cardsWon.length 
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 15 completed!</h2><a href='https://elaidina.github.io/sve1/level16.html'> Continue to Level 16</a>";
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 9 completed!</h2><a href="https://elaidina.github.io/sve1/level10.html"> Continue to Level 10</a>'
 
 
       var audio3 = new Audio ("images/end.mp3")
