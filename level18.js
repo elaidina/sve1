@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I am taller and bigger than him.'
+      img: 'They are very dirty and fat but also funny.'
     },
     {
       name: '1',
-      img: 'Jag är längre och större än honom.'
+      img: 'De är väldigt smutsiga och feta men också roliga.'
     },
     {
       name: '2',
-      img: 'But he is weaker than me.'
+      img: 'They like playing in the mud.'
     },
     {
       name: '2',
-      img: 'Men han är svagare än mig.'
+      img: 'De gillar att leka i leran.'
     },
     {
       name: '3',
-      img: 'Don ´t exaggerate.'
+      img: 'The children like playing in the yard.'
     },
     {
       name: '3',
-      img: 'Överdriv inte.'
+      img: 'Barnen gillar att leka på gården.'
     },
     {
       name: '4',
-      img: 'What will be the weather like tomorrow?'
+      img: 'They are looking forward to making a hut.'
     },
     {
       name: '4',
-      img: 'Hur blir vädret imorgon?'
+      img: 'De ser fram emot att få bygga en koja.'
     },
     {
       name: '5',
-      img: 'It should rain and be cold.'
+      img: 'They need a hammer, nails and planks.'
     },
     {
       name: '5',
-      img: 'Det ska regna och vara kallt.'
+      img: 'De behöver en hammare, spikar och plankor.'
     },
     {
       name: '6',
-      img: 'Shall I take an umbrella?'
+      img: 'I´d like to help them to hammer the planks.'
     },
     {
       name: '6',
-      img: 'Ska jag ta ett paraply?'
+      img: 'Jag skulle vilja hjälpa dem att hamra plankorna.'
     },
     {
       name: '7',
-      img: 'Please, don´t forget to take an umbrella or a raincoat.'
+      img: 'Rather help us to hammer the nails.'
     },
     {
       name: '7',
-      img: 'Snälla, glöm inte att ta ett paraply eller en regnrock.'
+      img: 'Hjälp oss hellre att hamra på spikarna.'
     },
     {
       name: '8',
-      img: 'Drink a lot of tea when you´re cold.'
+      img: 'How do you like the finished hut?'
     },
     {
       name: '8',
-      img: 'Drick mycket te när du är kall.'
+      img: 'Hur tycker du om den färdiga kojan?'
     },
     {
       name: '9',
-      img: 'Are you feeling sick?'
+      img: 'It´s the best hut ever.'
     },
     {
       name: '9',
-      img: 'Känner du dig sjuk?'
+      img: 'Det är den bästa stugan någonsin.'
     },
     {
       name: '10',
-      img: 'I´ve been ill for two weeks.'
+      img: 'It´s a lovely hot day.'
     },
     {
       name: '10',
-      img: 'Jag har varit sjuk i två veckor.'
+      img: 'Det är en härlig varm dag.'
     },
     {
       name: '11',
-      img: 'Dry your hair with this towel.'
+      img: 'The children are at the riverside.'
     },
     {
       name: '11',
-      img: 'Torka håret med den här handduken.'
+      img: 'Barnen är vid floden.'
     },
     {
       name: '12',
-      img: 'You need to keep warm.'
+      img: 'There is a lot of sand everywhere.'
     },
     {
       name: '12',
-      img: 'Du måste hålla dig varm.'
+      img: 'Det är mycket sand överallt.'
     }
   ]
 
