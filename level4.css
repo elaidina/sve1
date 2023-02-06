@@ -5,7 +5,8 @@ body {
  justify-content: space-around;
  background-color: aquamarine;
  font-family: Arial, Helvetica, sans-serif;
- background-image: url(images/bg5.png);
+ background-image: url(images/ocko.jpg);
+ background-size: cover;
 }
 
 .grid {
@@ -31,7 +32,7 @@ body {
 
 
   /* From https://css.glass */
-background: rgba(255, 255, 255, 0.507);
+background: rgba(255, 255, 255, 0.719);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(5px);

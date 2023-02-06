@@ -3,10 +3,11 @@ body {
  flex-direction: column;
  align-items: center;
  justify-content: space-around;
- background-color: aquamarine;
+ 
  font-family: Arial, Helvetica, sans-serif;
 
- background-image: url(images/spajdrmen.png);
+ background-image: url(images/skaly.jpg);
+ background-size: cover;
 }
 
 .grid {
@@ -61,6 +62,6 @@ h5 {
 }
 
 .green {
-  background: whitesmoke;
+  background: rgba(127, 245, 245, 0.555);
 
 }
