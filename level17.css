@@ -5,6 +5,9 @@ body {
  justify-content: space-around;
 background-image: url(images/smile.jpg);
 background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
  font-family: Arial, Helvetica, sans-serif;
 }
 

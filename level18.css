@@ -6,9 +6,10 @@ body {
  background-color: aquamarine;
  font-family: Arial, Helvetica, sans-serif;
  background-image: url(images/m1.jpg);
- background-repeat: no-repeat;
- background-position: center;
  background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
 
 }
 
