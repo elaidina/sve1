@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'What do you think about it?'
+      img: 'I would like to pick som flowers for my mum.'
     },
     {
       name: '1',
-      img: 'Vad tycker du om det?'
+      img: 'Jag skulle vilja plocka några blommor till min mamma.'
     },
     {
       name: '2',
-      img: 'Switch off the light.'
+      img: 'The apples are ripe and round.'
     },
     {
       name: '2',
-      img: 'Släck ljuset.'
+      img: 'Äpplena är mogna och runda.'
     },
     {
       name: '3',
-      img: 'Where do you play with your friends?'
+      img: 'I found a lot of presents under the Christmas tree.'
     },
     {
       name: '3',
-      img: 'Var spelar du med dina vänner?'
+      img: 'Jag hittade många presenter under granen.'
     },
     {
       name: '4',
-      img: 'When do you come home from work?'
+      img: 'I don ´t like ironing.'
     },
     {
       name: '4',
-      img: 'Jag trodde att det låg på byrån eller vid stolen.'
+      img: 'Jag gillar inte att stryka.'
     },
     {
       name: '5',
-      img: 'Hold the screw-driver.'
+      img: 'I am too busy today.'
     },
     {
       name: '5',
-      img: 'Håll skruvmejseln.'
+      img: 'Jag är för upptagen idag.'
     },
     {
       name: '6',
-      img: 'I watch a bedtime story every evening.'
+      img: 'Look around you.'
     },
     {
       name: '6',
-      img: 'Jag tittar på en godnattsaga varje kväll.'
+      img: 'Titta omkring dig.'
     },
     {
       name: '7',
-      img: 'Can you guess what I am?'
+      img: 'How many interesting things can you see?'
     },
     {
       name: '7',
-      img: 'Kan du gissa vad jag är?'
+      img: 'Hur många intressanta saker kan du se?'
     },
     {
       name: '8',
-      img: 'Do you plant flowers and trees?'
+      img: 'I know lots of people, animals, houses, trees and flowers.'
     },
     {
       name: '8',
-      img: 'Planterar du blommor och träd?'
+      img: 'Jag känner massor av människor, djur, hus, träd och blommor.'
     },
     {
       name: '9',
-      img: 'Yes, I am a gardener.'
+      img: 'But do you know everything?'
     },
     {
       name: '9',
-      img: 'Ja, jag är trädgårdsmästare.'
+      img: 'Men vet du allt?'
     },
     {
       name: '10',
-      img: 'Guess what I am thinking of.'
+      img: 'Nobody knows everything.'
     },
     {
       name: '10',
-      img: 'Gissa vad jag tänker på.'
+      img: 'Ingen vet allt.'
     },
     {
       name: '11',
-      img: 'Is it a boy, a girl, an animal or a thing?'
+      img: 'Some adults know a lot of songs for children.'
     },
     {
       name: '11',
-      img: 'Är det en pojke, en flicka, ett djur eller en sak?'
+      img: 'Vissa vuxna kan många sånger för barn.'
     },
     {
       name: '12',
-      img: 'Does it hang on the wall?'
+      img: 'Some people cannot repair cars.'
     },
     {
       name: '12',
-      img: 'Hänger den på väggen?'
+      img: 'Vissa människor kan inte reparera bilar.'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 13 completed!</h2><a href='https://elaidina.github.io/sve1/level14.html'> Continue to Level 14</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 20 completed!</h2><a href='https://elaidina.github.io/sve1/level21.html'> Continue to Level 21</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

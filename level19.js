@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: "I´ll make a tea for you."
+      img: "There´s a bridge across the river."
     },
     {
       name: '1',
-      img: 'Jag ska göra ett te till dig.'
+      img: 'Det finns en bro över floden.'
     },
     {
       name: '2',
-      img: "He´s got a sore throat and a headache."
+      img: "It doesn´t matter."
     },
     {
       name: '2',
-      img: 'Han har ont i halsen och huvudvärk.'
+      img: 'Det spelar ingen roll.'
     },
     {
       name: '3',
-      img: 'They all have a tummy-ache.'
+      img: 'We can drink water or orange juice.'
     },
     {
       name: '3',
-      img: 'De har alla ont i magen.'
+      img: 'Vi kan dricka vatten eller apelsinjuice.'
     },
     {
       name: '4',
-      img: "What´s the matter with me?"
+      img: "You´re swimming like a dog."
     },
     {
       name: '4',
-      img: 'Vad är det med mig?'
+      img: 'Du simmar som en hund.'
     },
     {
       name: '5',
-      img: 'We must stay at home.'
+      img: 'I´m swimming like a cat.'
     },
     {
       name: '5',
-      img: 'Vi måste stanna hemma.'
+      img: 'Jag simmar som en katt.'
     },
     {
       name: '6',
-      img: "I don´t want to catch a cold."
+      img: "Can you speak English?"
     },
     {
       name: '6',
-      img: 'Jag vill inte bli förkyld.'
+      img: 'Kan du prata engelska?'
     },
     {
       name: '7',
-      img: 'I keep eating a lot of fruits and vegetables and drinking warm tea with lemon and honey.'
+      img: 'I am leaving on Monday.'
     },
     {
       name: '7',
-      img: 'Jag fortsätter att äta mycket frukt och grönsaker och dricka varmt te med citron och honung.'
+      img: 'Jag åker på måndag.'
     },
     {
       name: '8',
-      img: 'Wipe your nose with a hanky.'
+      img: 'I am very sorry that I have to leave.'
     },
     {
       name: '8',
-      img: 'Torka näsan med en näsduk.'
+      img: 'Jag är väldigt ledsen att jag måste lämna.'
     },
     {
       name: '9',
-      img: 'Come along with me.'
+      img: 'We would like to say good-bye to you.'
     },
     {
       name: '9',
-      img: 'Kom tillsammans med mig.'
+      img: 'Vi skulle vilja säga hejdå till dig.'
     },
     {
       name: '10',
-      img: 'You can help me if you like.'
+      img: 'It´s a pitty, that you are leaving.'
     },
     {
       name: '10',
-      img: 'Du kan hjälpa mig om du vill.'
+      img: 'Det är synd att du lämnar.'
     },
     {
       name: '11',
-      img: 'She will come back in the afternoon.'
+      img: 'Take care and good luck.'
     },
     {
       name: '11',
-      img: 'Hon kommer tillbaka på eftermiddagen.'
+      img: 'Ta hand om dig och lycka till.'
     },
     {
       name: '12',
-      img: 'I want to watch TV in the evening.'
+      img: 'I enjoy a lot of snow in January.'
     },
     {
       name: '12',
-      img: 'Jag vill titta på tv på kvällen.'
+      img: 'Jag njuter av mycket snö i januari.'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 12 completed!</h2><a href='https://elaidina.github.io/sve1/level13.html'> Continue to Level 13</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 19 completed!</h2><a href='https://elaidina.github.io/sve1/level20.html'> Continue to Level 20</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

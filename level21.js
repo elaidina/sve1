@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Does it move?'
+      img: 'We learn because we want to know the world around us.'
     },
     {
       name: '1',
-      img: 'Rör det sig?'
+      img: 'Vi lär oss för att vi vill lära känna världen omkring oss.'
     },
     {
       name: '2',
-      img: 'How do you go to school?'
+      img: 'We also want to know how to make things.'
     },
     {
       name: '2',
-      img: 'Hur går du till skolan?'
+      img: 'Vi vill också veta hur man gör saker.'
     },
     {
       name: '3',
-      img: 'On foot, by bus, by tram or by car?'
+      img: 'My friend has got a little brother.'
     },
     {
       name: '3',
-      img: 'Till fots, med buss, spårvagn eller bil?'
+      img: 'Min kompis har en lillebror.'
     },
     {
       name: '4',
-      img: 'We´re going to make a salad in the kitchen.'
+      img: 'He wants to know everything.'
     },
     {
       name: '4',
-      img: 'Vi ska göra en sallad i köket.'
+      img: 'Han vill veta allt.'
     },
     {
       name: '5',
-      img: 'We need a knife, a spoon, a bowl, carrots, one cucumber, a cabbage, peas, some sugar and lemon juice.'
+      img: 'He always asks questions.'
     },
     {
       name: '5',
-      img: 'Vi behöver en kniv, en sked, en skål, morötter, en gurka, en kål, ärtor, lite socker och citronsaft.'
+      img: 'Han ställer alltid frågor.'
     },
     {
       name: '6',
-      img: 'First, we cut the vegetables.'
+      img: 'Do people live on the Moon?'
     },
     {
       name: '6',
-      img: 'Först skär vi grönsakerna.'
+      img: 'Bor människor på månen?'
     },
     {
       name: '7',
-      img: 'Then we mix all the ingredients together.'
+      img: 'Why do people work?'
     },
     {
       name: '7',
-      img: 'Då blandar vi ihop alla ingredienser.'
+      img: 'Varför arbetar människor?'
     },
     {
       name: '8',
-      img: 'Finally, we put everything on plates.'
+      img: 'Do flowers eat and drink?'
     },
     {
       name: '8',
-      img: '"Äntligen lägger vi allt på tallrikar.'
+      img: 'Äter och dricker blommor?'
     },
     {
       name: '9',
-      img: 'The salad is very tasty.'
+      img: 'I go to my father and ask him.'
     },
     {
       name: '9',
-      img: 'Saladen är väldigt god.'
+      img: 'Jag går till min pappa och frågar honom.'
     },
     {
       name: '10',
-      img: 'My room is in a mess.'
+      img: 'He knows a lot.'
     },
     {
       name: '10',
-      img: 'Mitt rum är i en enda röra.'
+      img: 'Han vet mycket.'
     },
     {
       name: '11',
-      img: 'There are clothes everywhere.'
+      img: 'I live in a block of flats.'
     },
     {
       name: '11',
-      img: 'Det finns kläder överallt.'
+      img: 'Jag bor i ett flerfamiljshus.'
     },
     {
       name: '12',
-      img: 'All my books and toys are on the floor.'
+      img: 'There´s no chimney on our house.'
     },
     {
       name: '12',
-      img: 'Alla mina böcker och leksaker ligger på golvet.'
+      img: 'Det finns ingen skorsten på vårt hus.'
     }
   ]
 
@@ -181,7 +181,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 14 completed!</h2><a href='https://elaidina.github.io/sve1/level15.html'> Continue to Level 15</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 21 completed!</h2><a href='https://elaidina.github.io/sve1/level22.html'> Continue to Level 12</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")
