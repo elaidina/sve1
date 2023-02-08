@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'He says that I put more fruit in my tummy than in the basket.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Han säger att jag lägger mer frukt i magen än i korgen.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'In winter Grandpa makes a bird-house and hangs it in the tree.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'På vintern gör morfar ett fågelhus och hänger det i trädet.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'He puts some food there, so that the birds are not hungry in the cold winter.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Han lägger lite mat där, så att fåglarna inte är hungriga i den kalla vintern.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'We must protect them bacause they help us.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Vi måste skydda dem för de hjälper oss.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'They eat insects.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'De äter insekter.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'Some insects can damage the plants.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Vissa insekter kan skada växterna.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'Why don´t we have ice-cream for breakfast?'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Varför äter vi inte glass till frukost?'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'It´s snowing and cold wind is blowing.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Det snöar och det blåser kall vind.'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'The tea is too bitter.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Teet är för bittert.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'Lemon juice makes it more sour.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Citronsaft gör det surare.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'I eat my breakfast up and go out.'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Jag äter upp min frukost och går ut.'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'The ice is slippery.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Isen är hal.'
     }
   ]
 
