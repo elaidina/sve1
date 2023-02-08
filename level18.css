@@ -44,14 +44,10 @@ backdrop-filter: blur(5px);
 border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+
+
 .box:hover {
-box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.164);
- 
-
- 
-}
-
-img {
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.54);   }   img {
 
 
   display:none
@@ -60,6 +56,19 @@ img {
 h5 {
   font-size: 1.5rem;
 }
+h3 {
+  background-color: whitesmoke;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.26);
+}
+
+h3:hover {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.164);
+   
+  
+   
+  }
 
 .hide {
   display:none

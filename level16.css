@@ -43,11 +43,7 @@ body {
  }
  
  .box:hover {
- box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.164);
-  
- 
-  
- }
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.54);   } 
  
  img {
  
@@ -58,6 +54,13 @@ body {
  h5 {
    font-size: 1.5rem;
  }
+
+ h3 {
+  background-color: whitesmoke;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.26);
+}
  
  .hide {
    display:none
