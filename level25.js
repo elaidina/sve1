@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'Don´t fall.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Fall inte.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'Walk slowly.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Gå långsamt.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'My friends are making a snowman.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Mina vänner gör en snögubbe.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'My birthday is in winter.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Min födelsedag är på vintern.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'People have their birthday only once a year.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Folk fyller år bara en gång om året.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'It´s pitty.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Det är synd.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'My daughter was born on Thursday.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Min dotter föddes på torsdagen.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'Nobody knows why the cat is so fat.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Ingen vet varför katten är så fet."'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'The little girl can button the sweater but she can´t zip the jacket up.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Den lilla flickan kan knäppa tröjan men hon kan inte dra ihop jackan. '
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'She likes playing with water in the bathroom.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Hon gillar att leka med vatten i badrummet.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'She washes her socks, shirt and pyjamas.'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Hon tvättar sina strumpor, skjorta och pyjamas.'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'There´s a lot of water everywhere.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Det finns mycket vatten överallt.'
     }
   ]
 

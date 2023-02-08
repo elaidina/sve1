@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'The floor and the walls are wet.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Golvet och väggarna är blöta.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'She never obeys.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Hon lyder aldrig.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'Grandpa has to pull out a giant turnip.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Morfar måste dra fram en jättekålrot.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'He pulls and pulls the turnip but he can´t pull it out.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Han drar och drar kålroten men han kan inte dra ut den.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'He must call his grandson.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Han måste ringa sitt barnbarn.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'They pull until the turnip comes out.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'De drar tills kålroten kommer ut.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'They all fall on the ground and laugh.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Alla faller på marken och skrattar.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'Why can´t animals speak?'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Varför kan inte djur prata?'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'They can but we don´t understand them.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'De kan men vi förstår dem inte.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'That hen is telling stories to her chicks.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Den hönan berättar historier för sina brudar.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'What is the story about?'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Vad handlar historien om?'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'Tell me the story, please.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Berätta för mig historien, snälla.'
     }
   ]
 
