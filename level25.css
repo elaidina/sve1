@@ -3,7 +3,7 @@ body {
  flex-direction: column;
  align-items: center;
  justify-content: space-around;
-  background-image: url(images/mara.jpg);
+  background-image: url(images/rest.JPG);
  background-size: cover; background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
@@ -73,7 +73,7 @@ h3:hover {
 }
 
 .green {
-  background-image: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);
+  background-image: linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
 
 
 }
