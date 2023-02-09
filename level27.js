@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'Who is going to make bread?'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Vem ska baka bröd?'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'I´m going to eat this bread.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Jag ska äta det här brödet.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'They are going to move house.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'De ska flytta hem.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'There is a lot of work to do.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Det finns mycket arbete att göra.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'We must sort out the things we want to keep and the things we can throw away.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Vi måste reda ut de saker vi vill behålla och de saker vi kan slänga.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'The kittens kept getting in the way.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Kattungarna fortsatte att komma i vägen.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'At last it was the day of the move.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Äntligen var det dagen för flytten.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'We watched the men packing things and putting them in the van.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Vi såg männen packa saker och lägga dem i skåpbilen.'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'It took a long time.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Det tog lång tid.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'When the house was quite empty, we felt a bit sad.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'När huset var ganska tomt kände vi oss lite ledsna.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'My brother carried the goldfish in their tank.'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Min bror bar guldfisken i sin tank.'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'The baby needed a cuddle.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Barnet behövde en gos.'
     }
   ]
 

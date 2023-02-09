@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'Before anyone could stop me, I went home.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Innan någon kunde stoppa mig gick jag hem.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'They could not find me anywhere.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'De kunde inte hitta mig någonstans.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'When we reached the new house, we felt miserable.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'När vi kom fram till det nya huset kände vi oss bedrövade.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'I´ve just had a bright idea!'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Jag har precis fått en ljus idé!'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'One on my laces came undone and I trod on it.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'En på mina snören lossnade och jag trampade på den.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'I had to tie my laces properly.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Jag var tvungen att knyta mina snören ordentligt.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'He drove away in the car.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Han körde iväg i bilen.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'Mummy was not very pleased with me.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Mamma var inte särskilt nöjd med mig.'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'There was such a lot to do.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Det var så mycket att göra.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'Let´s go and climb that tree.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Låt oss gå och klättra i det trädet.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'That night, I slept in my new bedroom for the first time.'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Den natten sov jag i mitt nya sovrum för första gången.'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'Soon I was asleep in my new home.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Snart sov jag i mitt nya hem.'
     }
   ]
 
