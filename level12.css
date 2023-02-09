@@ -72,8 +72,9 @@ h3:hover {
 .hide {
   /* display:none; */
   visibility: hidden;
-}
-.green {
+  width: 237px;
+  height: 134px;
+}.green {
   background: whitesmoke;background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
 
 }
