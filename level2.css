@@ -74,9 +74,9 @@ h3:hover {
   }
 
 .hide {
-  display:none
+  /* display:none; */
+  visibility: hidden;
 }
-
 .green {
   background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
 }
