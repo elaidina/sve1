@@ -107,22 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let cardsChosenId = []
   let cardsWon = []
 
-  //create your board
-  /* function createBoard() {
-    for (let i = 0; i < cardArray.length; i++) {
-      const cardd = document.createElement('div')
-      const card = document.createElement('img')
-      card.setAttribute('src', 'images/blank.png')
-
-      const cardtext = document.createElement('h5')
-      cardtext.textContent = i+1
-      card.setAttribute('data-id', i)
-      card.addEventListener('click', flipCard)
-      cardd.appendChild(card)
-      grid.appendChild(cardd)
-      cardd.appendChild(cardtext)
-    }
-  } */
+ 
 
 
   function createBoard() {

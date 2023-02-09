@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Something special was happening in my life.'
+      img: 'I have found your babies.'
     },
     {
       name: '1',
-      img: 'Något speciellt hände i mitt liv.'
+      img: 'Jag har hittat dina bebisar.'
     },
     {
       name: '2',
-      img: 'It was my birtday that very day!'
+      img: 'Don´t do that!'
     },
     {
       name: '2',
-      img: 'Det var min födelsedag just den dagen!'
+      img: 'Gör inte så!'
     },
     {
       name: '3',
-      img: 'I have never seen a kangaroo before.'
+      img: 'When it´s red, we have stop and wait until it´s green again.'
     },
     {
       name: '3',
-      img: 'Jag har aldrig sett en känguru förut.'
+      img: 'När det är rött måste vi stanna och vänta tills det är grönt igen.'
     },
     {
       name: '4',
-      img: 'What can a kangaroo do, anyway?'
+      img: 'Hold tight to my hands.'
     },
     {
       name: '4',
-      img: 'Vad kan en känguru göra egentligen?'
+      img: 'Håll hårt om mina händer.'
     },
     {
       name: '5',
-      img: 'Nobody knew.'
+      img: 'This is a very busy road.'
     },
     {
       name: '5',
-      img: 'Ingen visste.'
+      img: 'Det här är en mycket trafikerad väg.'
     },
     {
       name: '6',
-      img: 'How horrible!'
+      img: 'We must find a safe crossing.'
     },
     {
       name: '6',
-      img: 'Vad hemskt!'
+      img: 'Vi måste hitta en säker korsning.'
     },
     {
       name: '7',
-      img: 'I would hate that!'
+      img: 'Look, there are traffic lights.'
     },
     {
       name: '7',
-      img: 'Jag skulle hata det!'
+      img: 'Titta, det finns trafikljus.'
     },
     {
       name: '8',
-      img: 'What if she can catch mice?'
+      img: 'I pressed the button and soon the traffic stopped.'
     },
     {
       name: '8',
-      img: 'Vad händer om hon kan fånga möss?'
+      img: 'Jag tryckte på knappen och snart stannade trafiken.'
     },
     {
       name: '9',
-      img: 'Maybe even the spiders would be scared to live there.'
+      img: 'The green man showed us we should cross now.'
     },
     {
       name: '9',
-      img: 'Kanske till och med spindlarna skulle vara rädda för att bo där.'
+      img: 'Den gröna mannen visade oss att vi borde korsa nu.'
     },
     {
       name: '10',
-      img: 'What if she can give milk?'
+      img: 'He beeped to hurry us up.'
     },
     {
       name: '10',
-      img: 'Tänk om hon kan ge mjölk?'
+      img: 'Han pipade för att skynda oss.'
     },
     {
       name: '11',
-      img: 'I couldn´t stand that!'
+      img: 'She was pleased to see her friend.'
     },
     {
       name: '11',
-      img: 'Jag kunde inte stå ut med det!'
+      img: 'Hon var glad att se sin vän.'
     },
     {
       name: '12',
-      img: 'I ´m too young for that!'
+      img: 'They played football in the garden.'
     },
     {
       name: '12',
-      img: 'Det är jag för ung för!'
+      img: 'De spelade fotboll i trädgården.'
     }
   ]
 
@@ -107,22 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let cardsChosenId = []
   let cardsWon = []
 
-  //create your board
-  /* function createBoard() {
-    for (let i = 0; i < cardArray.length; i++) {
-      const cardd = document.createElement('div')
-      const card = document.createElement('img')
-      card.setAttribute('src', 'images/blank.png')
-
-      const cardtext = document.createElement('h5')
-      cardtext.textContent = i+1
-      card.setAttribute('data-id', i)
-      card.addEventListener('click', flipCard)
-      cardd.appendChild(card)
-      grid.appendChild(cardd)
-      cardd.appendChild(cardtext)
-    }
-  } */
+ 
 
 
   function createBoard() {

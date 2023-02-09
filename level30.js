@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'Her little sister wanted to play too.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Hennes lillasyster ville också leka.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'She kicked the ball high in the air and Jamie ran after it.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Hon sparkade bollen högt upp i luften och Jamie sprang efter den.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'Mind the pond, please.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Tänk på dammen, snälla.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'Unfortunatelly the ball rolled into a flower bed and we ran to find it.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Tyvärr rullade bollen in i en rabatt och vi sprang för att hitta den.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'Something buzzed round my face.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Något surrade runt mitt ansikte.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'It was a bee.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Det var ett bi.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'When I stay still, it might not sting me.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'När jag är stilla kanske det inte sticker mig.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'The bee buzzed off and I was sure.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Biet surrade av och jag var säker.'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'Jamie was holding a little red berry.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Jamie höll i ett litet rött bär.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'You must never eat anything you find in the garden.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Du får aldrig äta något du hittar i trädgården.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'It might be poisonous.'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Det kan vara giftigt.'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'Jamie opened his mouth to show them that he hadn´t eaten any berries.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Jamie öppnade munnen för att visa dem att han inte hade ätit några bär.'
     }
   ]
 
@@ -107,22 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let cardsChosenId = []
   let cardsWon = []
 
-  //create your board
-  /* function createBoard() {
-    for (let i = 0; i < cardArray.length; i++) {
-      const cardd = document.createElement('div')
-      const card = document.createElement('img')
-      card.setAttribute('src', 'images/blank.png')
-
-      const cardtext = document.createElement('h5')
-      cardtext.textContent = i+1
-      card.setAttribute('data-id', i)
-      card.addEventListener('click', flipCard)
-      cardd.appendChild(card)
-      grid.appendChild(cardd)
-      cardd.appendChild(cardtext)
-    }
-  } */
+ 
 
 
   function createBoard() {
