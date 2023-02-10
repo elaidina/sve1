@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'Don´t stand near the cooker.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Stå inte nära spisen.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'It is very hot and you might burn yourself.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Det är väldigt varmt och du kan bränna dig.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'Oh no, I have spilt my milk.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Åh nej, jag har spillt ut min mjölk.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'Tom went to fetch a mop from the cleaning cupboard.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Tom gick för att hämta en mopp från städskåpet.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'Inside the cupboard were all the things we need to keep the house clean.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'What a lot of bottles!'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Vilka många flaskor!'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'I keep the cupboard door locked.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Jag håller skåpsdörren låst.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'After tea we watched a film on TV.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Efter teet såg vi en film på TV.'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'The cat played on the floor.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Katten lekte på golvet.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'The cat has a tiny toy.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Katten har en liten leksak.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'Spit it out!'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Spotta ut det!'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'You could swallow it and choke.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Du kunde svälja det och kvävas.'
     }
   ]
 

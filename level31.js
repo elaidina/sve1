@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'It was nearly time for tea, so they all went indoors to wash their hands.'
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: 'Det var nästan dags för te, så de gick alla inomhus för att tvätta händerna.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'Tom undid the stair gate and Josie helped her sister to climb the stairs.'
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Tom lossade trappgrinden och Josie hjälpte sin syster att klättra upp för trappan.'
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'I made sure that the water was not too hot.'
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Jag såg till att vattnet inte var för varmt.'
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: 'We all washed our hands.'
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Vi tvättade alla våra händer.'
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'I wanted to look out of the bathroom window.'
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Jag ville titta ut genom badrumsfönstret.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'Be careful, please.'
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: 'Var försiktig, snälla.'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'It is not safe to lean out of windows.'
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Det är inte säkert att luta sig ut från fönster.'
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'I wasn´t going to.'
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Jag skulle inte göra det.'
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'Tom ran out of the bathroom and held the door shut.'
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Tom sprang ut från badrummet och höll dörren stängd.'
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'Let me out, Tom.'
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Släpp mig ut, Tom.'
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'It is dangerous to play with doors.'
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: 'Det är farligt att leka med dörrar.'
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: 'Someone´s fingers could get trapped.'
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Någons fingrar skulle kunna fastna.'
     }
   ]
 
