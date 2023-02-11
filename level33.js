@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'Dad came to catch us in his car.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Pappa kom för att fånga oss i sin bil.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'He put us in our safety seats and fastened our safety belts.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Han satte oss i våra säkerhetsstolar och spände fast våra säkerhetsbälten.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'Have you enjoyed yourselves?'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Har ni trivts?'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'I saved Tom´s life.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Jag räddade Toms liv.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Well done.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Bra gjort.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'Now turn the page.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Vänd blad nu.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'Help me solve the puzzle.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Hjälp mig att lösa pusslet.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'Point to the things that could be dangerous.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Peka på saker som kan vara farliga.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'This is a haunted house.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Det här är ett spökhus.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Once there was a girl.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Det fanns en gång en flicka.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'She went to live in this big old house.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Hon gick för att bo i det här stora gamla huset.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'It was a splendid place.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Det var en fantastisk plats.'
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 32 completed!</h2><a href='https://elaidina.github.io/sve1/level33.html'> Continue to Level 33</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level completed!</h2><a href='https://elaidina.github.io/sve1/level34.html'> Continue to next level </a>";
 
 
       var audio3 = new Audio ("images/end.mp3")
