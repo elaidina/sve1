@@ -3,31 +3,31 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'It is stuck.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Den sitter fast.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'He does what he can to close up the gap.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Han gör vad han kan för att täppa till gapet.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'The problem is your glass is too thin.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: '"Problemet är att ditt glas är för tunt.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'Kör långsamt tillbaka.'
     },
     {
       name: '4',
@@ -35,67 +35,67 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Slow down on the bends.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Sakta farten i krökarna.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'He´s going to crash.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Han ska krascha.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'What a lot of bad luck.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Vilken otur.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'If only that rain hadn´t dripped in his tea.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Om bara det regnet inte hade droppat i hans te.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'He forgot to turn his bath tap off.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Han glömde stänga av badkranen.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'This book belongs to me.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Den här boken tillhör mig.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'I have to go to the dentist.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Jag måste gå till tandläkaren.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'This book belongs to him.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Den här boken tillhör honom.'
     }
   ]
 

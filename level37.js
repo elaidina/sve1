@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'It was time for Tom to go shopping.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Det var dags för Tom att shoppa.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'While I was sitting in the waiting room, she was reading comics.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Medan jag satt i väntrummet läste hon serier.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'The door opened and out came the president.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Dörren öppnades och presidenten kom ut.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'Tom smiled to me.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Tom log till mig.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Why do you have to wear a brace on your teeth?'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Varför måste du ha tandställning på dina tänder?'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'To make my teeth straight.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Att göra mina tänder raka.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'Laura is ready to see you now.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Laura är redo att träffa dig nu.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'This is a nice clean smell.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Det här är en fin ren lukt.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'Who wants to go first?'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Vem vill gå först?'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Tom climbed into the dentist´s chair.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Tom klättrade upp i tandläkarstolen.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'Mrs White pressed a button and the chair tilted back.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Mrs White tryckte på en knapp och stolen lutade bakåt.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'Tom felt like a rocket pilot.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Tom kände sig som en raketpilot.'
     }
   ]
 

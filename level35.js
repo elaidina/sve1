@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'The little witch began to feel very tired after her hard work.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Den lilla häxan började känna sig väldigt trött efter sitt hårda arbete.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'They all lived happily ever after.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'De levde alla lyckliga i alla sina dagar.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'Look up and look down.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Se upp och titta ner.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'There is a leak in the roof.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Det är en läcka i taket.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'It´s easy to repair.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Det är enkelt att reparera.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'But how can you reach up there?'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Men hur kan du nå upp dit?'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'I can´t climb up.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Jag kan inte klättra upp."'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'It is much too steep.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Det är alldeles för brant.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'I have to borrow a ladder.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Jag måste låna en stege.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'The kid hops over the puddles and trips.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Barnet hoppar över pölarna och snubblar.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'She explains how the rain dripped in her tea.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Hon förklarar hur regnet droppade i hennes te.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'My window won´t close.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Mitt fönster stängs inte.'
     }
   ]
 
