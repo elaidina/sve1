@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'But the girl wasn´t just a girl.'
     },
     {
       name: '1',
@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'She was a witch.'
     },
     {
       name: '2',
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'She knew how to catch ghosts.'
     },
     {
       name: '3',
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'I hope there are some more!'
     },
     {
       name: '4',
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'She carried on until she had caught all the ghosts in the house.'
     },
     {
       name: '5',
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'Then she went to the kitchen.'
     },
     {
       name: '6',
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'She put them all in the washing machine.'
     },
     {
       name: '7',
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'When they were clean she hung them out in the garden.'
     },
     {
       name: '8',
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'It was fine weather for drying.'
     },
     {
       name: '9',
@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'After drying, most of the ghosts became nice curtains.'
     },
     {
       name: '10',
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'One of them made a good tablecloth.'
     },
     {
       name: '11',
@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'They were all very useful.'
     },
     {
       name: '12',
