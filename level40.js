@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'And don´t eat or drink in bed.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Och ät eller drick inte i sängen.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'Not even water?'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Inte ens vatten?'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'Only water.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Bara vatten.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'Sweet drinks can hurt your teeth as much as sweet food.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Söta drycker kan skada dina tänder lika mycket som söt mat.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Come back and see me soon.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Kom tillbaka och träffa mig snart.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'Before they went home the receptionist wrote down the date of their next visit.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Innan de gick hem skrev receptionisten upp datumet för nästa besök.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'The little boy was trying not to cry.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Den lille pojken försökte att inte gråta.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'What´s the matter, Tom?'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Vad är det, Tom?'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'I´ve got toothache.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Jag har tandvärk.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'He eats too many sweets.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Han äter för mycket sötsaker.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'Never mind.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Strunt i det.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'Mrs White will make it better.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Mrs White kommer att göra det bättre.'
     }
   ]
 

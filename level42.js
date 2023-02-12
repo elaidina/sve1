@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'As soon as he got home, he tried out his new toothbrush.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Så fort han kom hem provade han sin nya tandborste.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'Michelle was very excited.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Michelle var väldigt upprymd.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'It would soon be Christmas, so she wrote her wishes.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Det skulle snart vara jul, så hon skrev sina önskningar.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'We put on our hats, coats, scarves and gloves because it was cold outside.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Vi tog på oss mössor, rockar, halsdukar och handskar för att det var kallt ute.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'There were lots of families choosing Christmas trees at the Garden Centre.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Det var många familjer som valde julgranar på Trädgårdscentret.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'Which tree shall we get?'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Vilket träd ska vi få?'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'I like that one because it is really big.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Jag gillar den för den är verkligen stor.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'It is too big to fit in our car.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Den är för stor för att passa i vår bil.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'They agreed on a very nice smaller tree.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'De kom överens om ett väldigt fint mindre träd.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Dad fetched a trolley for the tree.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Pappa hämtade en vagn till trädet.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'The kids helped to push the troley.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Barnen hjälpte till att skjuta vagnen.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'They could choose two new tree decorations.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'De kunde välja två nya träddekorationer.'
     }
   ]
 

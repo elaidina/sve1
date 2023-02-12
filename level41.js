@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'On the way home they passed a sweet shop.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'På vägen hem gick de förbi en sötsaksaffär.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'I would like some sweets but I don´t want toothache like Tom.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Jag skulle vilja ha lite sötsaker men jag vill inte ha tandvärk som Tom.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'There are other tasty things that are better for you.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Det finns andra läckra saker som är bättre för dig.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'So they bought two crunchy apples from the greengrocer.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Så de köpte två knapriga äpplen av grönsakshandlaren.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Then they went to the chemist´s to buy new toothbrushes.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Sedan gick de till apoteket för att köpa nya tandborstar.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'The chemist told them about disclosing tablets.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Kemisten berättade för dem om att avslöja tabletter.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'Just chew half a tablet, then rinse your mouth with water.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Bara tugga en halv tablett, skölj sedan munnen med vatten.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'He explained.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Han förklarade.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'The parts of your teeth that most need cleaning will turn pink.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'De delar av dina tänder som behöver rengöras mest kommer att bli rosa.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'We would look funny going to playground with pink teeth.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Vi skulle se roliga ut att gå till lekplatsen med rosa tänder.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'The chemist laughed.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Kemisten skrattade.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'When there is no pink left, you know your teeth are clean.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'När det inte finns någon rosa kvar, vet du att dina tänder är rena.'
     }
   ]
 
