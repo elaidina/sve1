@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'She put a disposable mask over her nose and mouth.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Hon lade en engångsmask över näsan och munnen.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'What´s that for?'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Vad är det till för?'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'So that I don´t breathe over you.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Så att jag inte andas över dig.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'It´s your turn now.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Det är din tur nu.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'She found a little hole in one of Tom´s teeth.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Hon hittade ett litet hål i en av Toms tänder.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'I will clean that hole and put a filling in it.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Jag ska rensa det där hålet och fylla på det.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'It will stop pieces of food getting in and turning nasty.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Det kommer att förhindra att bitar av mat kommer in och blir otäcka.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'The sucking tube in Tom´s mouth made funny sucking noises.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Sugröret i Toms mun gjorde roliga sugande ljud.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'Then she used a whizzy drill to clean out the hole in Tom´s tooth.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Sedan använde hon en borr för att rensa ut hålet i Toms tand.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'The nurse gave Tom a glass of pink water to rinse his mouth.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Sköterskan gav Tom ett glas rosa vatten för att skölja hans mun.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'The dentist dried the hole with a little air blower, so that the filling would stick tight inside.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Tandläkaren torkade hålet med en liten luftfläkt, så att fyllningen skulle sitta tätt inuti.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'The nurse mixed a tiny bit of silver filling.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Sköterskan blandade en liten bit silverfyllning.'
     }
   ]
 

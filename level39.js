@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'Tom watched her.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Tom tittade på henne.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'Mrs White pushed the silver filing into the hole of Tom´s tooth.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Mrs White tryckte in silverfilen i hålet på Toms tand.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'She pressed it down and made it perfectly smooth.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Hon tryckte ner den och gjorde den helt slät.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'Good as new!'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Bra som ny!'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Did it hurt?'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Gjorde det ont?'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'The drill was noisy.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Drillen var stökig.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'But it didn´t hurt.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Men det gjorde inte ont.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'You have both got good teeth.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Ni har båda bra tänder.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'Keep them that way.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Håll dem så.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Eat a lot of different foods.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Ät mycket olika livsmedel.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'But remember, sweet foods can hurt your teeth, so don´t eat them too often.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Men kom ihåg att söt mat kan skada dina tänder, så ät dem inte för ofta.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'Never forget to clean your teeth in the morning and at bedtime with a floride toothpaste.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Glöm aldrig att rengöra tänderna på morgonen och vid läggdags med en floride tandkräm.'
     }
   ]
 
