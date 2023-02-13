@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'His stockings were hanging at the end of his bed.'
+      img: 'But Tom soon remembered how to do it.'
     },
     {
       name: '1',
-      img: 'Hans strumpor hängde i slutet av hans säng.'
+      img: 'Men Tom kom snart ihåg hur man gör.'
     },
     {
       name: '2',
-      img: 'Mummy had put a carrot for Rudolph on his chest of drawers.'
+      img: 'I like our tent best.'
     },
     {
       name: '2',
-      img: 'Mamma hade lagt en morot åt Rudolph på hans byrå.'
+      img: 'Jag gillar vårt tält bäst.'
     },
     {
       name: '3',
-      img: 'I´m going to stay awake to say hello to Father Christmas.'
+      img: 'I went to fetch water.'
     },
     {
       name: '3',
-      img: 'Jag ska hålla mig vaken och säga hej till jultomten.'
+      img: 'Jag gick för att hämta vatten.'
     },
     {
       name: '4',
-      img: 'One hour later he was already asleep.'
+      img: 'After supper, Tom went to explore the wood.'
     },
     {
       name: '4',
-      img: 'En timme senare sov han redan.'
+      img: 'Efter kvällsmat gick Tom för att utforska skogen.'
     },
     {
       name: '5',
-      img: 'He woke up early in the morning.'
+      img: 'Somebody has been painting arrows on the trees.'
     },
     {
       name: '5',
-      img: 'Han vaknade tidigt på morgonen.'
+      img: 'Någon har målat pilar på träden.'
     },
     {
       name: '6',
-      img: 'It was quite dark, but he could see that his stocking was full of presents.'
+      img: 'If we follow those arrows, they will take us for a good walk and bring us back to camp.'
     },
     {
       name: '6',
-      img: 'Det var ganska mörkt, men han kunde se att hans strumpa var full av presenter.'
+      img: 'Om vi följer pilarna kommer de att ta oss på en bra promenad och föra oss tillbaka till lägret.'
     },
     {
       name: '7',
-      img: 'We are going camping with our family.'
+      img: 'The big boys were very noisy.'
     },
     {
       name: '7',
-      img: 'Vi ska campa med vår familj.'
+      img: 'De stora pojkarna var väldigt bullriga.'
     },
     {
       name: '8',
-      img: 'It is a long drive.'
+      img: 'Let´s go and play inside our tent.'
     },
     {
       name: '8',
-      img: 'Det är en lång bilresa.'
+      img: 'Låt oss gå och leka inne i vårt tält.'
     },
     {
       name: '9',
-      img: 'At last we arrived at the campsite.'
+      img: 'It´s time you two got into your sleeping bags.'
     },
     {
       name: '9',
-      img: 'Äntligen kom vi fram till campingen.'
+      img: 'Det är dags att ni två lägger er i era sovsäckar.'
     },
     {
       name: '10',
-      img: 'It was in a field, beside a little wood.'
+      img: 'Tom was almost asleep in his cosy sleeping bag when something hit his tent.'
     },
     {
       name: '10',
-      img: 'Det var på en åker, bredvid en liten skog.'
+      img: 'Tom låg nästan och sov i sin mysiga sovsäck när något träffade hans tält.'
     },
     {
       name: '11',
-      img: 'Tom helped to unload the car."'
+      img: 'It gave him a fright.'
     },
     {
       name: '11',
-      img: 'Tom hjälpte till att lasta av bilen.'
+      img: 'Det gav honom en skräck.'
     },
     {
       name: '12',
-      img: 'Putting the tents up was a puzzle at first.'
+      img: 'The naughty boys had kicked a football hard at Tom´s tent.'
     },
     {
       name: '12',
-      img: 'Att sätta upp tälten var först ett pussel.'
+      img: 'De stygga pojkarna hade sparkat en fotboll hårt mot Toms tält.'
     }
   ]
 

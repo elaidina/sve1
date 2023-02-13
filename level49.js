@@ -3,100 +3,100 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'His stockings were hanging at the end of his bed.'
+      img: 'We have had adventures.'
     },
     {
       name: '1',
-      img: 'Hans strumpor hängde i slutet av hans säng.'
+      img: 'Vi har haft äventyr.'
     },
     {
       name: '2',
-      img: 'Mummy had put a carrot for Rudolph on his chest of drawers.'
+      img: 'Mummy could not get the camp stove to work.'
     },
     {
       name: '2',
-      img: 'Mamma hade lagt en morot åt Rudolph på hans byrå.'
+      img: 'Mamma kunde inte få lägerspisen att fungera.'
     },
     {
       name: '3',
-      img: 'I´m going to stay awake to say hello to Father Christmas.'
+      img: 'We will have to make do with a cold breakfast.'
     },
     {
       name: '3',
-      img: 'Jag ska hålla mig vaken och säga hej till jultomten.'
+      img: 'Vi får nöja oss med en kall frukost.'
     },
     {
       name: '4',
-      img: 'One hour later he was already asleep.'
+      img: 'Dad came to see what was wrong.'
     },
     {
       name: '4',
-      img: 'En timme senare sov han redan.'
+      img: 'Pappa kom för att se vad som var fel.'
+    },
+    /* {
+      name: '5',
+      img: 'Inside the cupboard were all the things we need to keep the house clean.'
     },
     {
       name: '5',
-      img: 'He woke up early in the morning.'
-    },
+      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+    }, */
     {
-      name: '5',
-      img: 'Han vaknade tidigt på morgonen.'
+      name: '6',
+      img: 'Come and join us.'
     },
     {
       name: '6',
-      img: 'It was quite dark, but he could see that his stocking was full of presents.'
-    },
-    {
-      name: '6',
-      img: 'Det var ganska mörkt, men han kunde se att hans strumpa var full av presenter.'
+      img: 'Kom och häng med oss.'
     },
     {
       name: '7',
-      img: 'We are going camping with our family.'
+      img: 'Soon there was the lovely smell of sausages and bacon.'
     },
     {
       name: '7',
-      img: 'Vi ska campa med vår familj.'
+      img: 'Snart doftade det av korv och bacon.'
     },
     {
       name: '8',
-      img: 'It is a long drive.'
+      img: 'There was plenty for everyone.'
     },
     {
       name: '8',
-      img: 'Det är en lång bilresa.'
+      img: 'Det fanns mycket för alla.'
     },
     {
       name: '9',
-      img: 'At last we arrived at the campsite.'
+      img: 'I love camping.'
     },
     {
       name: '9',
-      img: 'Äntligen kom vi fram till campingen.'
+      img: 'Jag älskar att campa.'
+    },
+    /* {
+      name: '10',
+      img: 'The cat has a tiny toy.'
     },
     {
       name: '10',
-      img: 'It was in a field, beside a little wood.'
-    },
-    {
-      name: '10',
-      img: 'Det var på en åker, bredvid en liten skog.'
+      img: 'Katten har en liten leksak.'
     },
     {
       name: '11',
-      img: 'Tom helped to unload the car."'
+      img: 'Spit it out!'
     },
     {
       name: '11',
-      img: 'Tom hjälpte till att lasta av bilen.'
+      img: 'Spotta ut det!'
     },
     {
       name: '12',
-      img: 'Putting the tents up was a puzzle at first.'
+      img: 'You could swallow it and choke.'
     },
     {
       name: '12',
-      img: 'Att sätta upp tälten var först ett pussel.'
-    }
+      img: 'Du kunde svälja det och kvävas.'
+    } */
   ]
 
   cardArray.sort(() => 0.5 - Math.random())

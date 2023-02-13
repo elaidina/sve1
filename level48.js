@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'His stockings were hanging at the end of his bed.'
+      img: 'They had a wonderful time in the wood.'
     },
     {
       name: '1',
-      img: 'Hans strumpor hängde i slutet av hans säng.'
+      img: 'De hade en underbar tid i skogen.'
     },
     {
       name: '2',
-      img: 'Mummy had put a carrot for Rudolph on his chest of drawers.'
+      img: 'They swung from trees like monkeys.'
     },
     {
       name: '2',
-      img: 'Mamma hade lagt en morot åt Rudolph på hans byrå.'
+      img: 'De svängde från träd som apor.'
     },
     {
       name: '3',
-      img: 'I´m going to stay awake to say hello to Father Christmas.'
+      img: 'I´m the king of the jungle!'
     },
     {
       name: '3',
-      img: 'Jag ska hålla mig vaken och säga hej till jultomten.'
+      img: 'Jag är kungen av djungeln!'
     },
     {
       name: '4',
-      img: 'One hour later he was already asleep.'
+      img: 'They chased after rabbits, trying to catch them.'
     },
     {
       name: '4',
-      img: 'En timme senare sov han redan.'
+      img: 'De jagade efter kaniner och försökte fånga dem.'
     },
     {
       name: '5',
-      img: 'He woke up early in the morning.'
+      img: 'But the rabbits ran faster.'
     },
     {
       name: '5',
-      img: 'Han vaknade tidigt på morgonen.'
+      img: 'Men kaninerna sprang fortare.'
     },
     {
       name: '6',
-      img: 'It was quite dark, but he could see that his stocking was full of presents.'
+      img: 'I nearly caught one, but it ran down a rabbit hole.'
     },
     {
       name: '6',
-      img: 'Det var ganska mörkt, men han kunde se att hans strumpa var full av presenter.'
+      img: 'Jag fick nästan en, men den rann ner i ett kaninhål.'
     },
     {
       name: '7',
-      img: 'We are going camping with our family.'
+      img: 'At last they began to feel hungry.'
     },
     {
       name: '7',
-      img: 'Vi ska campa med vår familj.'
+      img: 'Äntligen började de känna sig hungriga.'
     },
     {
       name: '8',
-      img: 'It is a long drive.'
+      img: 'None of them had had breakfast.'
     },
     {
       name: '8',
-      img: 'Det är en lång bilresa.'
+      img: 'Ingen av dem hade ätit frukost.'
     },
     {
       name: '9',
-      img: 'At last we arrived at the campsite.'
+      img: 'They wanted to go back to the camp, but they did not know which way to go.'
     },
     {
       name: '9',
-      img: 'Äntligen kom vi fram till campingen.'
+      img: 'De ville gå tillbaka till lägret, men de visste inte vilken väg de skulle gå.'
     },
     {
       name: '10',
-      img: 'It was in a field, beside a little wood.'
+      img: 'We are lost.'
     },
     {
       name: '10',
-      img: 'Det var på en åker, bredvid en liten skog.'
+      img: 'Vi är vilse.'
     },
     {
       name: '11',
-      img: 'Tom helped to unload the car."'
+      img: 'I was just coming to find you.'
     },
     {
       name: '11',
-      img: 'Tom hjälpte till att lasta av bilen.'
+      img: 'Jag kom precis för att hitta dig.'
     },
     {
       name: '12',
-      img: 'Putting the tents up was a puzzle at first.'
+      img: 'What have you been up to?'
     },
     {
       name: '12',
-      img: 'Att sätta upp tälten var först ett pussel.'
+      img: 'Vad har du haft för dig?'
     }
   ]
 

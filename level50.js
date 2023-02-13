@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'His stockings were hanging at the end of his bed.'
+      img: 'Don´t stand near the cooker.'
     },
     {
       name: '1',
-      img: 'Hans strumpor hängde i slutet av hans säng.'
+      img: 'Stå inte nära spisen.'
     },
     {
       name: '2',
-      img: 'Mummy had put a carrot for Rudolph on his chest of drawers.'
+      img: 'It is very hot and you might burn yourself.'
     },
     {
       name: '2',
-      img: 'Mamma hade lagt en morot åt Rudolph på hans byrå.'
+      img: 'Det är väldigt varmt och du kan bränna dig.'
     },
     {
       name: '3',
-      img: 'I´m going to stay awake to say hello to Father Christmas.'
+      img: 'Oh no, I have spilt my milk.'
     },
     {
       name: '3',
-      img: 'Jag ska hålla mig vaken och säga hej till jultomten.'
+      img: 'Åh nej, jag har spillt ut min mjölk.'
     },
     {
       name: '4',
-      img: 'One hour later he was already asleep.'
+      img: 'Tom went to fetch a mop from the cleaning cupboard.'
     },
     {
       name: '4',
-      img: 'En timme senare sov han redan.'
+      img: 'Tom gick för att hämta en mopp från städskåpet.'
     },
     {
       name: '5',
-      img: 'He woke up early in the morning.'
+      img: 'Inside the cupboard were all the things we need to keep the house clean.'
     },
     {
       name: '5',
-      img: 'Han vaknade tidigt på morgonen.'
+      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
     },
     {
       name: '6',
-      img: 'It was quite dark, but he could see that his stocking was full of presents.'
+      img: 'What a lot of bottles!'
     },
     {
       name: '6',
-      img: 'Det var ganska mörkt, men han kunde se att hans strumpa var full av presenter.'
+      img: 'Vilka många flaskor!'
     },
     {
       name: '7',
-      img: 'We are going camping with our family.'
+      img: 'I keep the cupboard door locked.'
     },
     {
       name: '7',
-      img: 'Vi ska campa med vår familj.'
+      img: 'Jag håller skåpsdörren låst.'
     },
     {
       name: '8',
-      img: 'It is a long drive.'
+      img: 'After tea we watched a film on TV.'
     },
     {
       name: '8',
-      img: 'Det är en lång bilresa.'
+      img: 'Efter teet såg vi en film på TV.'
     },
     {
       name: '9',
-      img: 'At last we arrived at the campsite.'
+      img: 'The cat played on the floor.'
     },
     {
       name: '9',
-      img: 'Äntligen kom vi fram till campingen.'
+      img: 'Katten lekte på golvet.'
     },
     {
       name: '10',
-      img: 'It was in a field, beside a little wood.'
+      img: 'The cat has a tiny toy.'
     },
     {
       name: '10',
-      img: 'Det var på en åker, bredvid en liten skog.'
+      img: 'Katten har en liten leksak.'
     },
     {
       name: '11',
-      img: 'Tom helped to unload the car."'
+      img: 'Spit it out!'
     },
     {
       name: '11',
-      img: 'Tom hjälpte till att lasta av bilen.'
+      img: 'Spotta ut det!'
     },
     {
       name: '12',
-      img: 'Putting the tents up was a puzzle at first.'
+      img: 'You could swallow it and choke.'
     },
     {
       name: '12',
-      img: 'Att sätta upp tälten var först ett pussel.'
+      img: 'Du kunde svälja det och kvävas.'
     }
   ]
 
