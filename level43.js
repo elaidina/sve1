@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'They searched through a box of glittering decorations.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'De sökte igenom en låda med glittrande dekorationer.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'Tom found a little angel for the top of the tree.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Tom hittade en liten ängel för toppen av trädet.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'You are very helpful.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Du är jätte hjälpsam.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'There is a special someone waiting to meet you before we go home.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Det finns en speciell person som väntar på att träffa dig innan vi går hem.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'The little wooden house was covered with snow.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Det lilla trähuset var täckt av snö.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'Do come in and meet Father Christmas.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Kom in och träffa jultomten.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'The lady was dressed as an elf.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Damen var klädd som en tomte.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'Have you been good children?'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Har ni varit bra barn?'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'Yes, always.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Ja alltid.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Will you come down our chimney with presents on Christmas Eve?'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Kommer du ner för skorstenen med presenter på julafton?'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'Don´t you worry.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Oroa dig inte.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'I will be there.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Jag ska vara där.'
     }
   ]
 

@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'Just don´t forget to hang up your stockings.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'Glöm bara inte att hänga upp dina strumpor.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'We will leave a carrot out for your reindeer.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Vi lämnar en morot ute till dina renar.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'Mummy peeped in to see how they were getting on.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Mamma kikade in för att se hur de hade det.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'Have they been good?'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Har de varit duktiga?'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'She asked Father Christmas.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'Hon frågade jultomten.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'So good they deserve a little present to open when they get home.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Så bra att de förtjänar en liten present att öppna när de kommer hem.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'He pulled out a present for Tom from a sack.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Han tog fram en present till Tom ur en säck.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'Thank you very much.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Tack så mycket."'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'As soon as he was back in the car he opened his present.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Så fort han var tillbaka i bilen öppnade han sin present.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'I have got sunglasses!'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Jag har solglasögon!'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'He was very pleased.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Han var mycket nöjd.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'It snowed a lot while he was sleeping.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Det snöade mycket när han sov.'
     }
   ]
 

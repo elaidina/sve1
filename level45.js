@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'In the morning he ran straight outside to build a snowman.'
     },
     {
       name: '1',
-      img: 'Stå inte nära spisen.'
+      img: 'På morgonen sprang han rakt ut för att bygga en snögubbe.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'Dad helped them and at last they had a splendid snowman.'
     },
     {
       name: '2',
-      img: 'Det är väldigt varmt och du kan bränna dig.'
+      img: 'Pappa hjälpte dem och äntligen fick de en fantastisk snögubbe.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'Tom ran indoors and fetched an old hat for his head and a carrot for his nose.'
     },
     {
       name: '3',
-      img: 'Åh nej, jag har spillt ut min mjölk.'
+      img: 'Tom sprang inomhus och hämtade en gammal hatt till huvudet och en morot till näsan.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'It was getting dark.'
     },
     {
       name: '4',
-      img: 'Tom gick för att hämta en mopp från städskåpet.'
+      img: 'Det började bli mörkt.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'They had a surprise when they went into the living room.'
     },
     {
       name: '5',
-      img: 'Inuti skåpet fanns allt vi behöver för att hålla huset rent.'
+      img: 'De fick en överraskning när de gick in i vardagsrummet.'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: 'The Chrismas tree was covered in twinkling lights, tinsel and tiny toys.'
     },
     {
       name: '6',
-      img: 'Vilka många flaskor!'
+      img: 'Julgranen var täckt av tindrande ljus, glitter och små leksaker.'
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'The robin was perched right at the top of the tree.'
     },
     {
       name: '7',
-      img: 'Jag håller skåpsdörren låst.'
+      img: 'Rödhaken satt högst upp på trädets topp.'
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'It´s not fair.'
     },
     {
       name: '8',
-      img: 'Efter teet såg vi en film på TV.'
+      img: 'Det är inte rättvist.'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'My angel should be at the top.'
     },
     {
       name: '9',
-      img: 'Katten lekte på golvet.'
+      img: 'Min ängel borde vara på toppen.'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Kitty strolled into the room and spotted the robin.'
     },
     {
       name: '10',
-      img: 'Katten har en liten leksak.'
+      img: 'Kitty promenerade in i rummet och såg rödhaken.'
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: 'At last it was Christmas Eve, the night when Father Christmas comes.'
     },
     {
       name: '11',
-      img: 'Spotta ut det!'
+      img: 'Äntligen var det julafton, kvällen när jultomten kommer.'
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'Tom went to bed, but he did not want to go to sleep.'
     },
     {
       name: '12',
-      img: 'Du kunde svälja det och kvävas.'
+      img: 'Tom gick och la sig, men han ville inte somna.'
     }
   ]
 
