@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kör långsamt tillbaka.'
+      img: 'Tom went to fetch a mop from the cleaning cupboard.'
     },
     {
       name: '4',
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level completed!</h2><a href='https://elaidina.github.io/sve1/level34.html'> Continue to next level </a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level completed!</h2><a href='https://elaidina.github.io/sve1/level37.html'> Continue to next level </a>";
 
 
       var audio3 = new Audio ("images/end.mp3")
