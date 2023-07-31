@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'She pours some milk into ints bowl.'
+      img: 'She pours some milk into its bowl.'
     },
     {
       name: '6',
-      img: 'Hon häller lite mjölk i ints skål.'
+      img: 'Hon häller lite mjölk i dess skål.'
     },
     {
       name: '7',
